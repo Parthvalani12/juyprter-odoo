@@ -1,3 +1,10 @@
+firtst one permision set by mount volume
+
+**  sudo chown -R 1000:100 /path/to/your/mounted/folder
+
+
+
+
 version: "3.8"
 
 services:
