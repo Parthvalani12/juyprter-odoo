@@ -5,4 +5,4 @@ jobs:
       runs-on: ubuntu-latest
       steps:
         - name: "greet-user"
-          run: echo"Hello Worls!"
+          run: echo "Hello Worls!"
